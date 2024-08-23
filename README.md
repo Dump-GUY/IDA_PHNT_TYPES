@@ -43,7 +43,7 @@ Copy tilib64.exe to your "IDA Instalation Dir", e.g., "C:\Program Files\IDA Pro 
 ### To generate IDA IDC "phnt" Type Information Scripts:
 Very similar like above but using the IDA UI, setting the Options->Compiler (Source parser=clang, target, included directories).<br/>
 `IDA-> Load File-> Parse C header file` (phnt_include.h)<br/>
-`IDA-> Produce file -> Dump typeinfo to IDC` file<br/>
+`IDA-> Produce file -> Dump typeinfo to IDC file`<br/>
 <br/>
 
 ## BEFORE vs. AFTER
